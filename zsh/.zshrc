@@ -99,6 +99,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Startup Directory
+cd ~/dev
+
+# Aliases
 alias ll="ls -alh"
 alias gcom="gf && gco master && gl && gst"
 alias gcol="f() { gf && gco $1 && gl && gst };f"
