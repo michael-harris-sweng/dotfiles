@@ -1,7 +1,7 @@
 # michael-harris-sweng / dotfiles
 
 ## Overview
-Contains
+Contains configuration files for various unix utilities, to simplify future installations.
 
 ## File Structure
 ```YAML
