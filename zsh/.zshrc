@@ -107,3 +107,4 @@ cd ~/dev
 alias ll="ls -alh"
 alias gcom="gf && gco master && gl && gst"
 alias gcol='f() { gf && gco $1 && gl && gst };f'
+alias yeet="grst . && gclean"
