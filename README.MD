@@ -14,5 +14,37 @@ dotfiles/
 
 ## To-do
 
-- [ ] Create bash script to install utilities, or at least a list to start (zsh, oh-my-zsh, alacritty, ranger, i3wm, vtop, neofetch)
+- [ ] Create BASH script to automate below setup guide.
 - [ ] Create config sections for new utilities in above.
+
+## Setup Guide
+
+### git
+
+1. Install `git` (e.g. `sudo apt-get install git`).
+
+### zsh
+
+1. Install `zsh` (e.g. `sudo apt-get install zsh`).
+
+### oh-my-zsh
+
+1. Find the latest instructions on [the oh-my-zsh site](https://ohmyz.sh/#install).
+
+### alacritty
+
+1. TODO
+
+### ranger
+
+1. Install `ranger` (e.g. `sudo apt-get install ranger`).
+
+### vtop
+
+1. Install `npm` (e.g. `sudo apt-get install npm`).
+2. Install `vtop` (e.g. `sudo npm install -g vtop`).
+
+
+### neofetch
+
+1. Install `neofetch` (e.g. `sudo apt-get install neofetch`).
