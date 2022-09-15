@@ -1,3 +1,6 @@
 [user]
-	name = Michael Harris
-	email = michael.harris.sweng@gmail.com
+    name = Michael Harris
+    email = michael.harris.sweng@gmail.com
+
+# [core]
+#     autocrlf = true
