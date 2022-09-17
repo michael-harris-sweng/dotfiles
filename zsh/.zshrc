@@ -100,9 +100,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# Startup Directory
-cd ~/dev
-
 # Aliases
 alias ll="ls -alh"
 alias gcom="gf && gco master && gl && gst"
