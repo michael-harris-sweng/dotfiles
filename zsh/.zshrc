@@ -104,4 +104,7 @@ source $ZSH/oh-my-zsh.sh
 alias ll="ls -alh"
 alias gcom="gf && gco master && gl && gst"
 alias gcol='f() { gf && gco $1 && gl && gst };f'
+alias gpf="gp --force-with-lease"
 alias yeet="grst . && gclean"
+alias gpls="git reset HEAD --hard"
+alias gunwipwip="gunwip && gwip && gpf"
